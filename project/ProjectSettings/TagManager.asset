@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - char
+  - skill1
+  - skill2
+  - skill3
+  - skill4
+  - wall
+  - AutoAttack
+  - BG
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BG
+  - Player
+  - Arrena
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 991477749
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Arrena
+    uniqueID: 3109109745
+    locked: 0
+  - name: Bullet
+    uniqueID: 265577785
+    locked: 0
+  - name: Player
+    uniqueID: 1451433713
+    locked: 0
+  - name: UI
+    uniqueID: 3579897267
+    locked: 0
