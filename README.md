@@ -29,7 +29,7 @@
 + 만약 오른쪽 터치의 길이가 짧다면, 한점을 클릭한 것으로 인식하고 그곳으로 점멸합니다.
 + 점멸은 이동과는 별개의 동작이며, 일정거리 이상을 클릭할 경우 해당 방향으로 최대사거리만큼 이동합니다.
 + 다른 플레이어의 스킬 컴포넌트는 네트워크 룸에 입장함과 동시에 삭제됩니다.
-<https://github.com/sqa314/Command/blob/master/project/Assets/Resource/scripts/Touch.cs>
+<https://github.com/sqa314/Command/blob/master/project/Assets/Resource/scripts/AutoAttack.cs>
 <https://github.com/sqa314/Command/blob/master/project/Assets/Resource/scripts/Skill1.cs>
 <https://github.com/sqa314/Command/blob/master/project/Assets/Resource/scripts/Skill2.cs>
 <https://github.com/sqa314/Command/blob/master/project/Assets/Resource/scripts/Skill3.cs>
