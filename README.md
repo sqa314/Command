@@ -60,12 +60,12 @@
 + 현재 입력된 커맨드가 스킬커맨드와 일치할 경우, 해당 스킬 슬롯 UI의 색깔이 변경됩니다.
 + Arena는 충돌을 위해 UI가 아닌 일반 오브젝트로 생성되었습니다.
 <https://github.com/sqa314/Command/blob/master/project/Assets/Resource/scripts/UIdefault.cs>
-<https://github.com/sqa314/Command/blob/master/project/Assets/Resource/scripts/UINetField.cs>
 <https://github.com/sqa314/Command/blob/master/project/Assets/Resource/scripts/PushSkill.cs>
 ### 2.5 Data
 + Save & Load되는 데이터는 4개의 스킬커맨드, BGM On-Off, SFX On-Off로 총 6개이며, 모두 유니티 제공 API인 PlayerPrefs기능을 통해 구현하였습니다.
 + 모든 데이터는 GetInt, SetInt를 통해 Save & Load되었으며, 게임이 시작되면 Load, 변경사항이 생기면 그 즉시 Save됩니다.
 <https://github.com/sqa314/Command/blob/master/project/Assets/Resource/scripts/PushSkill.cs>
+<https://github.com/sqa314/Command/blob/master/project/Assets/Resource/scripts/UINetField.cs>
 ### 2.6 Resource
 + 모든 이미지 리소스들은 상업목적을 포함한 자유 이용 허락저작물입니다.
 + 모든 사운드 리소스들은 상업목적을 포함한 자유 이용 허락저작물입니다.
