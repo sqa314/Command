@@ -1,7 +1,7 @@
 # Command
 1:1 대전 게임 Command 오픈소스
 ## 1. 개요
-[![Video Label](http://img.youtube.com/vi/fmd-7fw2pIU/0.jpg)](https://youtu.be/fmd-7fw2pIU)<br>
+[![Video Label](http://img.youtube.com/vi/I7IIxBrsRF0/0.jpg)](https://youtu.be/I7IIxBrsRF0)<br>
 이미지을 클릭하시면 영상으로 이동합니다.<br>
 다운로드 : <https://play.google.com/store/apps/details?id=com.sdy.Pdffme><br>
 > #게임 이름 : Command<br>
